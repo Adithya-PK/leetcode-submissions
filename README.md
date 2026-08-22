@@ -126,4 +126,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0577-employee-bonus](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
