@@ -130,4 +130,5 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
