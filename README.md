@@ -15,6 +15,7 @@ My LeetCode Submissions
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Adithya-PK/leetcode-submissions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
