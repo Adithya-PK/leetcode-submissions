@@ -52,4 +52,24 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
