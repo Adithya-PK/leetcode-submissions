@@ -69,6 +69,7 @@ My LeetCode Submissions
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ My LeetCode Submissions
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,5 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
