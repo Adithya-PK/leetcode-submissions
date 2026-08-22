@@ -87,6 +87,7 @@ My LeetCode Submissions
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ My LeetCode Submissions
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ My LeetCode Submissions
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
