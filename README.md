@@ -19,6 +19,7 @@ My LeetCode Submissions
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0661-image-smoother/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Adithya-PK/leetcode-submissions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
