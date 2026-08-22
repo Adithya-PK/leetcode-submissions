@@ -13,6 +13,7 @@ My LeetCode Submissions
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Adithya-PK/leetcode-submissions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ My LeetCode Submissions
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+| [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
