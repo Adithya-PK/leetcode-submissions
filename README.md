@@ -154,6 +154,7 @@ My LeetCode Submissions
 | [0595-big-countries](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0619-biggest-single-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
