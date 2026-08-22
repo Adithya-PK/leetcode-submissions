@@ -16,6 +16,7 @@ My LeetCode Submissions
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Adithya-PK/leetcode-submissions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -41,12 +42,14 @@ My LeetCode Submissions
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
