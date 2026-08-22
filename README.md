@@ -20,6 +20,7 @@ My LeetCode Submissions
 | [0643-maximum-average-subarray-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Adithya-PK/leetcode-submissions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ My LeetCode Submissions
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
