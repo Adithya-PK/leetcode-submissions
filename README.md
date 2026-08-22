@@ -25,6 +25,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,16 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4024-nearest-available-drone](https://github.com/Adithya-PK/leetcode-submissions/tree/main/4024-nearest-available-drone/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
