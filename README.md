@@ -81,6 +81,7 @@ My LeetCode Submissions
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,12 +93,14 @@ My LeetCode Submissions
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@ My LeetCode Submissions
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
