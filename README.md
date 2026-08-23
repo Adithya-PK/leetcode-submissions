@@ -34,6 +34,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0068-text-justification/) | Hard |
+| [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -166,6 +167,7 @@ My LeetCode Submissions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -191,4 +193,12 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
