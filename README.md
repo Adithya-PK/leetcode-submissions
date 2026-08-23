@@ -36,6 +36,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0068-text-justification/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -97,6 +98,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -202,10 +204,12 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
