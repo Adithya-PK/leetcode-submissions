@@ -175,6 +175,7 @@ My LeetCode Submissions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -195,6 +196,7 @@ My LeetCode Submissions
 | [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -345,6 +347,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,4 +429,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
