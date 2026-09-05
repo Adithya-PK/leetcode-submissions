@@ -43,6 +43,7 @@ My LeetCode Submissions
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
+| [0609-find-duplicate-file-in-system](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0661-image-smoother/) | Easy |
@@ -87,6 +88,7 @@ My LeetCode Submissions
 | [0592-fraction-addition-and-subtraction](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0609-find-duplicate-file-in-system](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@ My LeetCode Submissions
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0609-find-duplicate-file-in-system](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Database
 | Problem Name | Difficulty |
