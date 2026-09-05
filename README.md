@@ -28,6 +28,7 @@ My LeetCode Submissions
 | [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -98,6 +99,7 @@ My LeetCode Submissions
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -197,6 +199,7 @@ My LeetCode Submissions
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -223,6 +226,7 @@ My LeetCode Submissions
 | [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -270,6 +274,7 @@ My LeetCode Submissions
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
