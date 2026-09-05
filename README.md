@@ -22,6 +22,7 @@ My LeetCode Submissions
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -77,6 +78,7 @@ My LeetCode Submissions
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0519-random-flip-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0519-random-flip-matrix/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
@@ -252,6 +254,7 @@ My LeetCode Submissions
 | [0508-most-frequent-subtree-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0519-random-flip-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0519-random-flip-matrix/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -297,6 +300,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,4 +375,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
