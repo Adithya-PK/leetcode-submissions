@@ -25,6 +25,7 @@ My LeetCode Submissions
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -115,6 +116,7 @@ My LeetCode Submissions
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +353,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,4 +390,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
