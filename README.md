@@ -59,6 +59,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
@@ -86,6 +87,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ My LeetCode Submissions
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -281,4 +284,16 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
 <!---LeetCode Topics End-->
