@@ -18,6 +18,7 @@ My LeetCode Submissions
 | [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -245,6 +246,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
@@ -291,6 +293,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
