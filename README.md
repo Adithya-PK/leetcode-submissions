@@ -30,6 +30,7 @@ My LeetCode Submissions
 | [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -208,6 +209,7 @@ My LeetCode Submissions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
