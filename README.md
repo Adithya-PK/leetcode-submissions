@@ -13,6 +13,7 @@ My LeetCode Submissions
 | [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
@@ -57,6 +58,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
@@ -67,6 +69,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
