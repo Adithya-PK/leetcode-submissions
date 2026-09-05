@@ -21,6 +21,7 @@ My LeetCode Submissions
 | [0503-next-greater-element-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -58,6 +59,7 @@ My LeetCode Submissions
 | [0516-longest-palindromic-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -85,6 +87,7 @@ My LeetCode Submissions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -204,6 +207,7 @@ My LeetCode Submissions
 | [0443-string-compression](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
 | [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -247,6 +251,7 @@ My LeetCode Submissions
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0519-random-flip-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0519-random-flip-matrix/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
