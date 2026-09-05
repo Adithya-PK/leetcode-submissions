@@ -46,6 +46,7 @@ My LeetCode Submissions
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -88,6 +89,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
