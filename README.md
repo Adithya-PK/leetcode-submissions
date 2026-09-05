@@ -32,6 +32,7 @@ My LeetCode Submissions
 | [0539-minimum-time-difference](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
+| [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -93,6 +94,7 @@ My LeetCode Submissions
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
@@ -130,6 +132,7 @@ My LeetCode Submissions
 | [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
+| [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
