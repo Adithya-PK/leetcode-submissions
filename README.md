@@ -105,6 +105,7 @@ My LeetCode Submissions
 | [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0592-fraction-addition-and-subtraction](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
+| [0593-valid-square](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0593-valid-square/) | Medium |
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
@@ -430,6 +431,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [0593-valid-square](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0593-valid-square/) | Medium |
 ## Rejection Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
