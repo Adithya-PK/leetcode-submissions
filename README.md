@@ -96,6 +96,7 @@ My LeetCode Submissions
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -141,6 +142,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
@@ -148,6 +150,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
