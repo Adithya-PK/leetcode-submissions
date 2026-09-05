@@ -11,6 +11,7 @@ My LeetCode Submissions
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
+| [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
@@ -143,6 +144,7 @@ My LeetCode Submissions
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
@@ -219,6 +221,7 @@ My LeetCode Submissions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
@@ -260,4 +263,12 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
