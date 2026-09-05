@@ -9,6 +9,7 @@ My LeetCode Submissions
 | [0068-text-justification](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0068-text-justification/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
@@ -58,6 +59,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -73,6 +75,7 @@ My LeetCode Submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -155,6 +158,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 ## Counting Sort
