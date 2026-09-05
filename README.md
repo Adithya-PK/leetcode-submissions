@@ -119,6 +119,7 @@ My LeetCode Submissions
 | [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -139,6 +140,7 @@ My LeetCode Submissions
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -157,6 +159,7 @@ My LeetCode Submissions
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -181,6 +184,7 @@ My LeetCode Submissions
 | [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
