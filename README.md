@@ -35,6 +35,7 @@ My LeetCode Submissions
 | [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
 | [0554-brick-wall](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0554-brick-wall/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
+| [0565-array-nesting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0565-array-nesting/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -185,6 +186,7 @@ My LeetCode Submissions
 | [0547-number-of-provinces](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0565-array-nesting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0565-array-nesting/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
