@@ -10,6 +10,7 @@ My LeetCode Submissions
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
@@ -52,6 +53,7 @@ My LeetCode Submissions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
@@ -190,6 +192,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
