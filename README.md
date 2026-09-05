@@ -20,6 +20,7 @@ My LeetCode Submissions
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
+| [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -103,6 +104,7 @@ My LeetCode Submissions
 | [0474-ones-and-zeroes](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +336,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +358,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
