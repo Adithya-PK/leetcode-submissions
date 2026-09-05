@@ -143,6 +143,7 @@ My LeetCode Submissions
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
@@ -165,6 +166,7 @@ My LeetCode Submissions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
@@ -201,6 +203,7 @@ My LeetCode Submissions
 | [0528-random-pick-with-weight](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -212,6 +215,7 @@ My LeetCode Submissions
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
