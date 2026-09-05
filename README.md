@@ -54,6 +54,7 @@ My LeetCode Submissions
 | [0468-validate-ip-address](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0468-validate-ip-address/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -101,6 +102,7 @@ My LeetCode Submissions
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
