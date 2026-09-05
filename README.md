@@ -77,6 +77,7 @@ My LeetCode Submissions
 | [0539-minimum-time-difference](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -96,6 +97,7 @@ My LeetCode Submissions
 | [0528-random-pick-with-weight](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0598-range-addition-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
@@ -248,6 +250,7 @@ My LeetCode Submissions
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## DP on Trees
