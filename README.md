@@ -82,6 +82,7 @@ My LeetCode Submissions
 | [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Math
@@ -141,6 +142,7 @@ My LeetCode Submissions
 | [0542-01-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
 | [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0576-out-of-boundary-paths/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,4 +459,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
