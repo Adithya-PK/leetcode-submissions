@@ -65,6 +65,7 @@ My LeetCode Submissions
 | [0447-number-of-boomerangs](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
@@ -314,4 +315,16 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0474-ones-and-zeroes/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 <!---LeetCode Topics End-->
