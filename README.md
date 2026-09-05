@@ -463,4 +463,8 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
