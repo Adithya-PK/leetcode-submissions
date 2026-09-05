@@ -68,6 +68,7 @@ My LeetCode Submissions
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -261,6 +262,7 @@ My LeetCode Submissions
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@ My LeetCode Submissions
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -310,6 +313,7 @@ My LeetCode Submissions
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
