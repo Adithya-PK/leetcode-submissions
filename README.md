@@ -27,6 +27,7 @@ My LeetCode Submissions
 | [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -159,6 +160,7 @@ My LeetCode Submissions
 | [0508-most-frequent-subtree-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -178,6 +180,7 @@ My LeetCode Submissions
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -244,6 +247,7 @@ My LeetCode Submissions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0529-minesweeper](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0529-minesweeper/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0661-image-smoother/) | Easy |
 ## String Matching
