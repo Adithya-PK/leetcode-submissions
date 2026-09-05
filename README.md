@@ -80,6 +80,7 @@ My LeetCode Submissions
 | [0551-student-attendance-record-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Math
@@ -255,6 +256,7 @@ My LeetCode Submissions
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -305,6 +307,7 @@ My LeetCode Submissions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0554-brick-wall](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0554-brick-wall/) | Medium |
+| [0567-permutation-in-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -332,6 +335,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Design
