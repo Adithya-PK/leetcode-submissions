@@ -15,6 +15,7 @@ My LeetCode Submissions
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0495-teemo-attacking](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
@@ -75,6 +76,7 @@ My LeetCode Submissions
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -158,6 +160,7 @@ My LeetCode Submissions
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0456-132-pattern](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
@@ -179,6 +182,7 @@ My LeetCode Submissions
 | ------- | ------- |
 | [0443-string-compression](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
+| [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
