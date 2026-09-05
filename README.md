@@ -24,6 +24,7 @@ My LeetCode Submissions
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -259,6 +260,7 @@ My LeetCode Submissions
 | [0519-random-flip-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0519-random-flip-matrix/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -305,6 +307,7 @@ My LeetCode Submissions
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
