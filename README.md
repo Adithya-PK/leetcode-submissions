@@ -45,6 +45,7 @@ My LeetCode Submissions
 | [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0661-image-smoother/) | Easy |
@@ -128,11 +129,13 @@ My LeetCode Submissions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,11 +296,13 @@ My LeetCode Submissions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0621-task-scheduler](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +339,7 @@ My LeetCode Submissions
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0609-find-duplicate-file-in-system](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0621-task-scheduler](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Database
 | Problem Name | Difficulty |
