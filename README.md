@@ -33,6 +33,7 @@ My LeetCode Submissions
 | [0540-single-element-in-a-sorted-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0542-01-matrix/) | Medium |
 | [0553-optimal-division](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0553-optimal-division/) | Medium |
+| [0554-brick-wall](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0554-brick-wall/) | Medium |
 | [0561-array-partition](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
@@ -297,6 +298,7 @@ My LeetCode Submissions
 | [0525-contiguous-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0554-brick-wall](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0554-brick-wall/) | Medium |
 | [0575-distribute-candies](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
