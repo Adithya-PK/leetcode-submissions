@@ -158,6 +158,7 @@ My LeetCode Submissions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -364,6 +365,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
