@@ -40,6 +40,7 @@ My LeetCode Submissions
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [0504-base-7](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -150,6 +151,7 @@ My LeetCode Submissions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
