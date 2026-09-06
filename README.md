@@ -65,6 +65,7 @@ My LeetCode Submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0068-text-justification/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -143,6 +144,7 @@ My LeetCode Submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0464-can-i-win](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0464-can-i-win/) | Medium |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
