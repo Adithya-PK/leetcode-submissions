@@ -6,6 +6,7 @@ My LeetCode Submissions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0068-text-justification](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0068-text-justification/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -235,6 +236,7 @@ My LeetCode Submissions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
