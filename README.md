@@ -6,6 +6,7 @@ My LeetCode Submissions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0068-text-justification](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0068-text-justification/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -272,6 +273,7 @@ My LeetCode Submissions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0443-string-compression](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [0457-circular-array-loop](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0457-circular-array-loop/) | Medium |
 | [0475-heaters](https://github.com/Adithya-PK/leetcode-submissions/tree/main/0475-heaters/) | Medium |
